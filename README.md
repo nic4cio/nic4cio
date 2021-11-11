@@ -8,5 +8,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nic4cio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic4cio&layout=compact&langs_count=7&theme=radical  "/>
 </div>
-
-                    ![scottp](https://user-images.githubusercontent.com/60157992/141299594-7ce7d979-5509-459d-836e-608d5d3b537b.gif)
