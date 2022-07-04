@@ -1,7 +1,7 @@
-- ✌🏿 Olá, sou o Gabriel Nicácio
-- 🌴 Estudante de Ciência da Computação na Universidade Federal de Alagoas (UFAL)
-- 📬 Contate-me no email: gabrielnn0@gmail.com
-- 🧛‍♂️ Pronomes: ele/dele
+-  Olá, sou o Gabriel Nicácio
+-  Estudante de Ciência da Computação na Universidade Federal de Alagoas (UFAL)
+-  Contate-me no email: gabrielnn0@gmail.com
+-  Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/nic4cio">
