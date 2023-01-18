@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=91c4ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gabriel+Nicácio;I'm+from+Brazil)](https://git.io/typing-svg)
 
 -  Hi, I'm Gabriel Nicácio
 -  Web Developer
