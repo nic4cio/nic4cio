@@ -17,4 +17,3 @@
 
 ![Codewars Profile badge](https://www.codewars.com/users/nic4cio/badges/large)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/blacklotus.kn.png" alt="TryHackMe">
