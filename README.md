@@ -4,7 +4,7 @@
 -  Full Stack Developer | Computer Graphics 
 -  Computer Science Student at Universidade Federal de Alagoas (UFAL)
 -  Pronouns: he/him
--  Contact me on my e-mail: gabrielnn0@gmail.com
+-  Contact me on my e-mail: gnicaciodev@gmail.com
 
 ## Main skills:
 
