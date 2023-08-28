@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=55a0f7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gabriel+Nicácio;I'm+from+Brazil;Full+Stack+Developer;Computer+Science+Student;Computer+Graphics+Researcher;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=55a0f7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gabriel+Nicácio;I'm+from+Brazil;Software+Developer;Computer+Science+Student;Computer+Graphics+Researcher;)](https://git.io/typing-svg)
 
 -  Hi, I'm Gabriel Nicácio
--  Full Stack Developer | Computer Graphics 
+-  Software Developer | Computer Graphics 
 -  Computer Science Student at Universidade Federal de Alagoas (UFAL)
 -  Pronouns: he/him
 -  Contact me on my e-mail: gnicaciodev@gmail.com
