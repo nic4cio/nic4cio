@@ -15,9 +15,5 @@
 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 
----
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/blacklotus.kn.png" alt="TryHackMe">
-
 
 
